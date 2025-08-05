@@ -28,4 +28,4 @@ It is part of my learning journey to strengthen my data handling and reporting s
 
 ## 📷 Project Preview
 ![Excel Dashboard](screenshot1.png)
-![Sorted Data]()
+![Sorted Data](screenshot2.png)
